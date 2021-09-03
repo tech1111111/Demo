@@ -14,6 +14,7 @@
 <!-- Feel free to change this is text here -->
 <p>
   Fork me? Fork you, @octocat!
+  Edit
 </p>
 <p>
   Sean made a change
